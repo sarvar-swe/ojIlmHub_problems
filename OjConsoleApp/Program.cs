@@ -7,7 +7,7 @@
 // solution10.PrintTenFibonacci();
 
 // Solution17 solution17 = new Solution17();
-// solution17.PrintSample("2016");
+// solution17.PrintSample("100");
 
 // Solution20 solution20 = new Solution20();
 // solution20.PrintRoundedNumber(99999);
@@ -15,5 +15,5 @@
 // Solution19 solution19 = new Solution19();
 // solution19.PrintCenterOfNumber(12345);
 
-Solution18 solution18 = new Solution18();
-solution18.PrintSeconds(63);
+// Solution18 solution18 = new Solution18();
+// solution18.PrintSeconds(63);
