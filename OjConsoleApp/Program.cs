@@ -17,3 +17,6 @@
 
 // Solution18 solution18 = new Solution18();
 // solution18.PrintSeconds(63);
+
+Solution16 solution16 = new Solution16();
+solution16.PrintLoverCaseLatter('A');
