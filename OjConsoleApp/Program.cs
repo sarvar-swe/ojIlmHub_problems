@@ -9,5 +9,8 @@
 // Solution17 solution17 = new Solution17();
 // solution17.PrintSample("2016");
 
-Solution20 solution20 = new Solution20();
-solution20.PrintRoundedNumber(99999);
+// Solution20 solution20 = new Solution20();
+// solution20.PrintRoundedNumber(99999);
+
+// Solution19 solution19 = new Solution19();
+// solution19.PrintCenterOfNumber(12345);
