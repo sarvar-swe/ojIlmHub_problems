@@ -14,3 +14,6 @@
 
 // Solution19 solution19 = new Solution19();
 // solution19.PrintCenterOfNumber(12345);
+
+Solution18 solution18 = new Solution18();
+solution18.PrintSeconds(63);

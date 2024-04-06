@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OjConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94bfc5a28047f636ea2d9b3d37ceb873647c0a22")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4fec9038a0025864bf1a2832abd4353ce369327")]
 [assembly: System.Reflection.AssemblyProductAttribute("OjConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OjConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
